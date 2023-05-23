@@ -2,7 +2,7 @@
   "input": "./gallery",
   "output": "./build_output",
   "title": "Photo Gallery for Healthy Kids Running Series by qmshaophoto",
-  "sort-albums-by": "title",
+  "sort-albums-by": "start-date",
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
